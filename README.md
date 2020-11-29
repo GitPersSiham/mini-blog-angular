@@ -7,7 +7,7 @@ title: string,
 content: string,  
 loveIts: number,  
 created_at: Date
-} 
+} **
 
 **En termes de structure :**
 
